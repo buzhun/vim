@@ -21,6 +21,7 @@ set autoread							" 设置文件在vim之外的编辑器中修改后可以自�
 set history=1024                        " 设置操作历史记录为1024条
 set nowrap			                	" 设置文本始终不折行
 set ignorecase				            " 设置搜索忽略大小写
+set showcmd                             " 显示输入的vim命令
 set incsearch				            " 设置输入搜索内容时就显示搜索结果
 set smartcase				            " 设置智能识别，即当条件中有1个字母为大写时启动大小写敏感的精确匹配 
 set hlsearch				            " 设置搜索时高亮显示
